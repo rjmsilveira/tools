@@ -1,6 +1,6 @@
 ORG=rjmsilveira
 PROJ=tools
-VERSION=1.0.0
+VERSION=1.0.3
 
 .PHONY=release
 release:
